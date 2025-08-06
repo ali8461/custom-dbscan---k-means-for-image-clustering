@@ -6,7 +6,7 @@
 A **Data Mining** project that implements **custom versions of DBSCAN and K-Means** clustering algorithms from scratch, optimized for clustering pixels in images. This project demonstrates the application of unsupervised learning for tasks like **image segmentation**, **anomaly detection**, and **pattern recognition**.
 
 ---
-![Result](Clustering.PNG)
+![Result](clustering.PNG)
 ---
 
 ## 📌 Project Highlights
