@@ -113,14 +113,6 @@ Each pixel is colored based on its assigned cluster's average RGB value.
 
 ---
 
-## 📈 Sample Output
-
-| Original                       | K-Means                      | DBSCAN                       |
-| ------------------------------ | ---------------------------- | ---------------------------- |
-| ![original](kmeans_output.jpg) | ![kmeans](kmeans_output.jpg) | ![dbscan](dbscan_output.jpg) |
-
----
-
 ## 💡 Use Cases
 
 * **Image Segmentation** (e.g., medical, satellite images)
