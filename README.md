@@ -132,7 +132,8 @@ This project is part of an academic data mining assignment. If reused, please gi
 
 **Muhammad Ali**
 *Data Mining Enthusiast | AI Explorer*
-
-
 ---
 
+## Note on code availability
+
+"Due to academic restrictions, the source code cannot be made public. Please contact me directly for more details or a demonstration."
